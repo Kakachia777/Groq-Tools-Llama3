@@ -1,5 +1,8 @@
 <h2>AI-Powered API for Real-Time Interactions</h2>
 
+![LLaVA](groq.jpg)
+
+
 <h3>Installation</h3>
 
 <p>To get started, you'll need to install the required packages using pip:</p>
